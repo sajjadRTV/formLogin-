@@ -4,7 +4,7 @@
 
 html , body {
     height: 100%;
-    padding: 1%;
+    padding: 1%; 
     margin: 0 !important;
 }
 
@@ -13,6 +13,7 @@ body{
     align-items: center;
     justify-content: center;
     background: #04aa6d8e;
+    flex-direction: column;
 }
 
 @media screen and (max-width : 1024px) {
